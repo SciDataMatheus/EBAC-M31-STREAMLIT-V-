@@ -1,0 +1,6 @@
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.9.1
+pillow==10.3.0
+XlsxWriter==3.2.0
+numpy==1.26.4
